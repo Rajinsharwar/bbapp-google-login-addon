@@ -1,0 +1,7 @@
+{
+    "social_login": {
+        "is_enabled_ios": true,
+        "is_enabled_android": true,
+        "google_ios_id": true
+    }
+}
