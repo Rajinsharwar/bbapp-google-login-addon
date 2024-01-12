@@ -2,7 +2,7 @@ A NON-OFFICIAL addon for the BuddyBoss App, to integrate the One-click Google Re
 
 ![image](https://github.com/Rajinsharwar/bbapp-google-login-addon/assets/68213636/66846b3e-d9f5-4f1e-a5f1-5e489aa1bd89)
 
-
+Follow me on LinkedIn: https://linkedin.com/in/rajinsharwar
 ## What do I need to integrate Google Login in my BuddyBoss App?
 1. Your BuddyBoss App
 2. Developer Access of BuddyBoss.
